@@ -1,0 +1,18 @@
+:root{
+    --footer-color:#2F303A;
+    --section-color:#2F303A;
+    --header-color:#FFFFFF;
+    --article-color:#F5F4FA;
+}
+#title{
+    color: #FFFFFF;
+}
+#button{
+    color:#2196F3 ;
+}
+#name{
+    color:#212121 ;
+}
+p{
+    color:#757575 ;
+}
